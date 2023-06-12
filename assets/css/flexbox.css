@@ -122,7 +122,7 @@ h3 { margin-bottom: 16px; }
     align-items: center ;
 }
 .ortayazi{
-    background-color: #eeff04;
+    background-color: #ffffff;
     width: 400px;
 }
 .ortayazi img{
@@ -141,4 +141,15 @@ h3 { margin-bottom: 16px; }
     border-radius: 6px;
     justify-content: space-between;
     align-items: center ;
+}
+.bloghome{
+    margin: 10px;
+    display: flex;
+    gap: 10px;
+    background-color: lightcoral;
+    justify-content: center;
+}
+.kutu{
+    padding: 30px;
+    background-color: red;
 }
